@@ -20,7 +20,7 @@
     background-color:#37E792;
     border: #37E792;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     position: relative;
     top:-150px;
     left: 30px;
@@ -32,12 +32,14 @@ h1{
     margin-top: -135px; 
     margin-left: 30px;
     font-weight: bold;
+    font-family: 'Poppins', sans-serif;
 }
 
 p{
     color:white;
     margin-top: 1px; 
     margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
 }
 .telefone {
     font-size: 30px;
@@ -48,8 +50,10 @@ p{
 .ligar{
     color: #2F3243;
     margin-left: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
+    position: relative;
+    top: 5px;
 }
 
 .lock{
@@ -61,19 +65,22 @@ p{
 .visitar{
     color: #2F3243;
     margin-left: 60px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
 }
 .compartilhar{
     font-size: 30px;
     margin-top: -55px;
     margin-left: 125px;
+    position: relative;
 }
 .comp{
     color: #2F3243;
     margin-left: 115px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
+    position: relative;
+    top: -5px;
 }
 .agenda-1{
     width:30%;
@@ -81,7 +88,7 @@ p{
     background-color:#37E792;
     border: #37E792;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     border-radius: 8px;
     margin-left: 280px;
     position: absolute;
@@ -108,7 +115,7 @@ p{
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     display: block;
     margin: 20px auto; 
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .busca::placeholder {
@@ -126,7 +133,7 @@ p{
 .liso{
     color: #2F3243;
     font-size: 17px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-left: 90px;
     margin-top: -80px;
 
@@ -136,6 +143,7 @@ p{
     margin-left: 100px;
     color: #a9acba;
     font-size: 12px;
+    font-family: 'Poppins', sans-serif;
 }
 .agenda-2{
     background-color: #37E792; 
@@ -144,7 +152,7 @@ p{
     padding: 10px 25px;
     border-radius: 8px;
     font-size: 1rem;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     transition: background-color 0.3s ease;
@@ -179,7 +187,7 @@ p{
     margin-bottom: 50px;
     color: #2F3243;
     font-size: 17px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-left: 100px;
 }
 .preco-3{
@@ -214,7 +222,7 @@ p{
     padding: 10px 25px;
     border-radius: 8px;
     font-size: 1rem;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     transition: background-color 0.3s ease;
@@ -229,7 +237,7 @@ p{
     background-color: #222;
     color: white;
     padding: 40px 20px 10px 20px;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .container-rodape {
